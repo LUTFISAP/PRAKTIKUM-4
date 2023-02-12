@@ -1,4 +1,3 @@
-![86 FLOWCHART PRAKTIKUM 4](https://user-images.githubusercontent.com/124272825/218296873-0e48b7d1-5c9a-425c-b0eb-72dd3c4d6009.jpg)
 # **program sederhana untuk menambahkan data kedalam sebuah list**
 
 ```sh
@@ -22,4 +21,4 @@ Nim  : 312210712
 11. ketika user menginput string "n" akan masuk ke statment else yang berisikan print.
 12. di dalam statment else gunakan for data di dalam mahasiswa untuk menlooping data di variable tambah.
 
-## **Flowchart**
+## **![86 FLOWCHART PRAKTIKUM 4](https://user-images.githubusercontent.com/124272825/218296901-fdaf9015-1127-4c3c-868a-642602cbc723.jpg)**
