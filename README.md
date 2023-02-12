@@ -1,3 +1,4 @@
+![86 FLOWCHART PRAKTIKUM 4](https://user-images.githubusercontent.com/124272825/218296873-0e48b7d1-5c9a-425c-b0eb-72dd3c4d6009.jpg)
 # **program sederhana untuk menambahkan data kedalam sebuah list**
 
 ```sh
